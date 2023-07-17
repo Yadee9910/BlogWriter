@@ -1,0 +1,68 @@
+.top{
+    width:100%;
+    height:65px;
+    max-width:1200px;
+    position: sticky;
+    display: flex; /*align items horizontally*/
+    align-items: center;
+    top: 0;
+    margin:0 auto;
+}
+.top-left{
+    flex: 1;  
+    justify-content: center;
+    display: flex;
+
+}
+
+.topicons{
+    cursor: pointer;
+    font-size:20px;
+    margin-right: 4.5%;
+    align-items: center;
+
+}
+.top-center{
+    flex:2;
+    display: flex;
+    justify-content:center;
+  
+}
+
+.topsearch{
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.top-right{
+    flex: 3; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.toplistitems{
+    display: flex;
+    padding:0;
+    margin: 0;
+    list-style: none;
+}
+
+.topitems{
+    margin-right: 20px;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: 500;
+    align-items: center;
+}
+
+.topimage{
+    width:45px; 
+    height:45px;
+    object-fit:cover;
+    border-radius: 50%;
+    display: flex;
+    margin-left: 10%; 
+    cursor: pointer;
+}
