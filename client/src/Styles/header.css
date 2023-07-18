@@ -8,6 +8,7 @@
     top: 0;
     margin:0 auto;
 }
+
 .top-left{
     flex: 1;  
     justify-content: center;
@@ -65,4 +66,35 @@
     display: flex;
     margin-left: 10%; 
     cursor: pointer;
+}
+
+.lowerheader{
+    margin-top:20px;
+}
+
+.lowerheadertitle{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.headertitle01{
+    position: absolute;
+    top: 13%;
+    font-size:20px;
+}
+
+.headertitle02{
+    position: absolute;
+    font-size: 70px;
+    top:18%;
+}
+
+.lowerheaderimage{
+    width:100%;
+    margin-top: 10%;
+    object-fit: cover;
+    height: 450px;
 }

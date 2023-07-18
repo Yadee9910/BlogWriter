@@ -2,6 +2,7 @@ import "./Styles/header.css"
 
 function Header (){
     return(
+        <>
        <div className='top'>
             <div className="top-left">
                 <i className="topicons fa-brands fa-square-facebook"></i>
@@ -28,6 +29,19 @@ function Header (){
             </div>      
        </div>
 
+<div clasName= "lowerheader">
+    <div className="lowerheadertitle">
+        <span className="headertitle01">Shout out your thoughts</span>
+        <span className="headertitle02">BlogWriter</span>
+    </div>
+
+    <img
+    className="lowerheaderimage"
+    src="https://cdn.pixabay.com/photo/2017/08/17/13/33/classified-2651347_640.jpg"
+    alt=""/>
+    
+</div>
+</>
     )
 }
 export default Header;
