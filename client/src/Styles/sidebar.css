@@ -1,0 +1,28 @@
+.sidebar{
+    flex: 2;
+    margin: 18px;
+    padding-bottom: 18px;
+    background-color:rgba(255, 255, 255, 0.952);  
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    border-radius: 10px;
+}
+
+.sidebaritems{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sidebartopics{
+    padding : 5px;
+    width: 80%;
+    margin:10px;
+    border-top:1px solid #a7a4a4;
+    border-bottom:1px solid #a7a4a4;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: rgb(41, 38, 38);
+}
