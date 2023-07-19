@@ -6,8 +6,8 @@ export default function Sidebar(){
            <div className="sidebaritems">
                 <span className="sidebartopics">ABOUT ME</span>      
                 
-                <img 
-                src="https://cdn.pixabay.com/photo/2019/10/16/17/57/in-the-fall-4555052_640.jpg"
+                <img className="sidebarimage" 
+                src="https://media.istockphoto.com/id/1448474701/photo/graphic-designer-smiles-as-she-works-on-a-laptop-in-an-office.webp?b=1&s=612x612&w=0&k=20&c=JFR5nH-aKvlKWR9H9zj6ml6bH5vyR7N_t-MxvBbJexs="
                 alt=""/>
 
                 <p>
