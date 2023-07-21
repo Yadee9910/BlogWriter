@@ -37,7 +37,7 @@ function Header (){
 
     <img
     className="lowerheaderimage"
-    src="https://media.istockphoto.com/id/1324235318/photo/hands-of-businessman-using-app-laptop-at-workplace.webp?b=1&s=612x612&w=0&k=20&c=Kt_mH3tsn_gsTf6y5lqJ5ohSOgCVzLyAPYIeBVmsVNw="
+    src="https://images.unsplash.com/photo-1542435503-956c469947f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YmxvZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60s"
     alt=""/>
     
 </div>
