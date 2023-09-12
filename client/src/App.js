@@ -1,9 +1,13 @@
-import Home from "./Pages/Home";
+//import Home from "./Pages/Home";
+import Single from "./Pages/Single";
+import Topheader from "./Pages/Topheader";
 
 function App() {
   return (
   <div>
-    <Home />
+    <Topheader />
+    <Single />
+
   </div>
     
   );
